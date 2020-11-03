@@ -1,4 +1,5 @@
 # spam_sms_classifier
 This project classifies whether a short message is spam or not.
 
-! [Spam Demo] (readme_resources/Spam SMS Detector - Google Chrome 2020-11-03 07-29-35_Trim (1).gif)
+! [Spam Demo] (readme_resources/demo.gif)
+![](readme_resources/s.png)

@@ -17,15 +17,5 @@ This project classifies whether a short message is spam or not.
 
 
 
-![](readme_resources/s.png)
-
-
-
-
-
-![](readme_resources/demo.gif)
-
-
-
 
 
